@@ -63,6 +63,7 @@ module TranslationsManager
     'ko_KR' => 'ko',
     'pt_PT' => 'pt',
     'sk_SK' => 'sk',
+    'sv_SE' => 'sv',
     'vi_VN' => 'vi'
   }
 end
